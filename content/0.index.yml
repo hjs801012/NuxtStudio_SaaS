@@ -6,7 +6,7 @@ seo:
 navigation: false
 hero:
   links:
-    - label: Get started
+    - label: 시작하기
       icon: i-lucide-arrow-right
       trailing: true
       to: https://ui.nuxt.com/getting-started/installation/pro/nuxt
